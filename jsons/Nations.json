@@ -170,7 +170,10 @@
 		"outerColor": [4, 44, 109],
 		"innerColor": [247, 216, 3],
 		"uniqueName": "",
-		"uniques": [""],
+		"uniques": [""
+
+			
+		],
 		"cities": ["Ofanburg"],
     "spyNames": [""]
    },
