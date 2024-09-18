@@ -273,7 +273,9 @@
 		"outerColor": [181, 181, 181],
 		"innerColor": [121, 1, 2],
 		"uniqueName": "",
-		"uniques": [""],
+		"uniques": [
+			"When defeating a [Wounded] unit, earn [3] Gold and recruit it"
+		],
 		"cities": ["Ganheirsbeurgs"],
     "spyNames": [""]
    },
