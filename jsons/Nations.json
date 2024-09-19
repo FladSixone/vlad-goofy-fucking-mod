@@ -274,7 +274,7 @@
 		"innerColor": [121, 1, 2],
 		"uniqueName": "",
 		"uniques": [
-			"When defeating a [Wounded] unit, earn [3] Gold and recruit it"
+			"When defeating a [Wounded] unit, earn [3] Gold and recruit it <with [25]% chance>"
 		],
 		"cities": ["Ganheirsbeurgs"],
     "spyNames": [""]
