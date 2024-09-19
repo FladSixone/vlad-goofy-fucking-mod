@@ -327,7 +327,7 @@
 		"innerColor": [249, 249, 249],
 		"uniqueName": "",
 		"uniques": [
-"May capture killed [All] units <within [5] tiles of a [Holy site]>"
+"When defeating a [Wounded] unit, earn [3] Gold and recruit it <within [5] tiles of a [Holy site]>"
 ],
 		"cities": ["Isyo"],
     "spyNames": [""]
