@@ -122,7 +122,10 @@
 		"outerColor": [203, 23, 24],
 		"innerColor": [249, 249, 249],
 		"uniqueName": "",
-		"uniques": [""],
+		"uniques": [
+"[15] Unit Supply"
+"[+200]% maintenance costs"
+],
 		"cities": ["Metro-Hydra"],
     "spyNames": [""]
    },
