@@ -100,7 +100,7 @@
 		"uniqueName": "",
 		"uniques": [
 "[15] Unit Supply",
-"[+5000]% maintenance costs"
+"[+5000000]% maintenance costs"
 ],
 		"cities": ["Ente Holzstürrath"],
     "spyNames": [""]
