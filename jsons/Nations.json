@@ -98,7 +98,10 @@
 		"outerColor": [249, 249, 249],
 		"innerColor": [121, 61, 3],
 		"uniqueName": "",
-		"uniques": [""],
+		"uniques": [
+"[15] Unit Supply",
+"[+5000]% maintenance costs"
+],
 		"cities": ["Ente Holzstürrath"],
     "spyNames": [""]
    },
@@ -122,10 +125,7 @@
 		"outerColor": [203, 23, 24],
 		"innerColor": [249, 249, 249],
 		"uniqueName": "",
-		"uniques": [
-"[15] Unit Supply",
-"[+200]% maintenance costs"
-],
+		"uniques": [""],
 		"cities": ["Metro-Hydra"],
     "spyNames": [""]
    },
