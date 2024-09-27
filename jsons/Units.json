@@ -7,7 +7,7 @@
                 "rangedStrength": 55,
                 "range": 9,
                 "interceptRange": 8,
-                "cost": 0,
+                "cost": 1,
                 "requiredTech": "Radar",
                 "uniques": ["[50]% chance to intercept air attacks", 
 "[+75]% Strength <vs [Armored] units>", 
