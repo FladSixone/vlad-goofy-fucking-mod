@@ -1,4 +1,5 @@
-        {
+[
+{
                 "name": "KDÜ-40 Attacker Nugas",
                 "unitType": "Bomber",
                 "movement": 1,
@@ -13,5 +14,6 @@
                 "uniques": ["[50]% chance to intercept air attacks", 
 "[+75]% Strength <vs [Armored] units>", 
                 "attackSound": "machinegun"
-        
+                        }
 
+]
