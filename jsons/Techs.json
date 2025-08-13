@@ -345,6 +345,13 @@
 				"quote": "'Compound interest is the most powerful force in the universe.' - Albert Einstein"
 			},
 			{
+				"name": "Sigils",
+				"row": 7,
+				"prerequisites": ["Acoustics","Printing Press"],
+                "uniques": ["[-50]% weight to this choice for AI decisions"],
+				"quote": "'Compound interest is the most powerful force in the universe.' - Albert Einstein"
+			},
+			{
 				"name": "Metallurgy",
 				"row": 9,
 				"prerequisites": ["Printing Press","Gunpowder"],
