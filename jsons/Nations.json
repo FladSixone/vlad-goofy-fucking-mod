@@ -302,7 +302,7 @@
 		"outerColor": [120, 1, 2],
 		"innerColor": [117, 163, 243],
 		"uniqueName": "",
-		"uniques": [""],
+		"uniques": ["[+50]% [Iron] resource production"],
 		"cities": ["Ratusha"],
     "spyNames": [""]
    },
